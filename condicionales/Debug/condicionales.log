@@ -1,0 +1,3 @@
+﻿  condicionales.cpp
+K:\202020\DANIEL GONZALEZ PROG APLICADA\condicionales\condicionales.cpp(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  condicionales.vcxproj -> K:\202020\DANIEL GONZALEZ PROG APLICADA\condicionales\Debug\condicionales.exe

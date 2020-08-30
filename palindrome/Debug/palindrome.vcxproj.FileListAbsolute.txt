@@ -1,0 +1,2 @@
+K:\202020\DANIEL GONZALEZ PROG APLICADA\palindrome\Debug\palindrome.exe
+K:\202020\DANIEL GONZALEZ PROG APLICADA\palindrome\Debug\palindrome.pdb

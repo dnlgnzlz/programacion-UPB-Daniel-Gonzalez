@@ -1,0 +1,5 @@
+﻿  notas1estudiante.cpp
+K:\202020\DANIEL GONZALEZ PROG APLICADA\notas1\notas1estudiante.cpp(12,18): warning C4305: '*=': truncamiento de 'double' a 'float'
+K:\202020\DANIEL GONZALEZ PROG APLICADA\notas1\notas1estudiante.cpp(13,17): warning C4305: '*=': truncamiento de 'double' a 'float'
+K:\202020\DANIEL GONZALEZ PROG APLICADA\notas1\notas1estudiante.cpp(14,23): warning C4305: '*=': truncamiento de 'double' a 'float'
+  notas1.vcxproj -> K:\202020\DANIEL GONZALEZ PROG APLICADA\notas1\Debug\notas1.exe

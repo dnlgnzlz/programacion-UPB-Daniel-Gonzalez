@@ -1,0 +1,2 @@
+K:\202020\DANIEL GONZALEZ PROG APLICADA\hello world\Debug\hello world.exe
+K:\202020\DANIEL GONZALEZ PROG APLICADA\hello world\Debug\hello world.pdb

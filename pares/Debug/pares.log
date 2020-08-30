@@ -1,0 +1,3 @@
+﻿  pares.cpp
+K:\202020\DANIEL GONZALEZ PROG APLICADA\pares\pares.cpp(7,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  pares.vcxproj -> K:\202020\DANIEL GONZALEZ PROG APLICADA\pares\Debug\pares.exe
